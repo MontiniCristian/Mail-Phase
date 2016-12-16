@@ -3,3 +3,5 @@
 A simple mail cracking tool
 
 # Currently SMTP servers supported
+## Articles
+- ["How To Write A Readme"]
