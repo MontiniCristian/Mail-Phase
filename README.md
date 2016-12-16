@@ -17,3 +17,4 @@ Contributions are always welcome!
 
 # Contacts
 - montinicristian@gmail.com
+- dave@daveapp.it
