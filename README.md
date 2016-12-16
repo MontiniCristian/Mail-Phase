@@ -2,6 +2,10 @@
 -version 1.0
 A simple mail cracking tool
 
-# Currently SMTP servers supported
-## Articles
-- ["How To Write A Readme"]
+## Currently SMTP servers supported
+- ["Gmail"]
+- ["Yahoo"]
+- ["Virgilio"]
+- ["Libero"]
+- ["Alice"]
+- ["Aruba"]
