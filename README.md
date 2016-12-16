@@ -17,4 +17,3 @@ Contributions are always welcome!
 
 # Contacts
 - montinicristian@gmail.com
-- ubertidavide@gmail.com
