@@ -1,4 +1,0 @@
-#!/bin/bash
-
-cd /usr/share/mailphase/
-python mailphase.py
