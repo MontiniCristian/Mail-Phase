@@ -1,6 +1,7 @@
-# Mail-Phase
--version 1.0
+# Mail Phase
 A simple mail cracking tool
+
+## VERSION 1.0
 
 ## Currently SMTP servers supported
 - ["Gmail"]
@@ -9,3 +10,11 @@ A simple mail cracking tool
 - ["Libero"]
 - ["Alice"]
 - ["Aruba"]
+
+## Contribute
+Contributions are always welcome!
+
+
+# Contacts
+- ["montinicristian@gmail.com"]
+- ["ubertidavide@gmail.com"]
